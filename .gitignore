@@ -1,0 +1,17 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.sdf
+*.zip
+*.bz2
+*.gz
+*.7z
+*.chm
+*.pch
+
+*.suo
+*.opensdf
+
+Debug/
+x64/
+Win32/
+ipch/
+AntiAlias_src/
